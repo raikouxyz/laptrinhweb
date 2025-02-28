@@ -1,2 +1,1 @@
 Dòng ban đầu
-Dòng mới từ test_conflict
